@@ -1,0 +1,352 @@
+U:\Bloc_IV\Poo\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\Tp2WPF.exe
+U:\Bloc_IV\Poo\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\Tp2WPF.dll.config
+U:\Bloc_IV\Poo\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\Tp2WPF.deps.json
+U:\Bloc_IV\Poo\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\Tp2WPF.runtimeconfig.json
+U:\Bloc_IV\Poo\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\Tp2WPF.dll
+U:\Bloc_IV\Poo\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\Tp2WPF.pdb
+U:\Bloc_IV\Poo\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\CommonServiceLocator.dll
+U:\Bloc_IV\Poo\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\EntityFramework.SqlServer.dll
+U:\Bloc_IV\Poo\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\EntityFramework.dll
+U:\Bloc_IV\Poo\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\Humanizer.dll
+U:\Bloc_IV\Poo\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+U:\Bloc_IV\Poo\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\Microsoft.Build.Locator.dll
+U:\Bloc_IV\Poo\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
+U:\Bloc_IV\Poo\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+U:\Bloc_IV\Poo\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+U:\Bloc_IV\Poo\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+U:\Bloc_IV\Poo\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+U:\Bloc_IV\Poo\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+U:\Bloc_IV\Poo\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+U:\Bloc_IV\Poo\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\Microsoft.Data.Sqlite.dll
+U:\Bloc_IV\Poo\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+U:\Bloc_IV\Poo\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+U:\Bloc_IV\Poo\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+U:\Bloc_IV\Poo\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+U:\Bloc_IV\Poo\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Sqlite.dll
+U:\Bloc_IV\Poo\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+U:\Bloc_IV\Poo\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+U:\Bloc_IV\Poo\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.dll
+U:\Bloc_IV\Poo\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+U:\Bloc_IV\Poo\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Binder.dll
+U:\Bloc_IV\Poo\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+U:\Bloc_IV\Poo\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+U:\Bloc_IV\Poo\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+U:\Bloc_IV\Poo\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+U:\Bloc_IV\Poo\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+U:\Bloc_IV\Poo\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Configuration.dll
+U:\Bloc_IV\Poo\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Console.dll
+U:\Bloc_IV\Poo\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+U:\Bloc_IV\Poo\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+U:\Bloc_IV\Poo\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+U:\Bloc_IV\Poo\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\Mono.TextTemplating.dll
+U:\Bloc_IV\Poo\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\GalaSoft.MvvmLight.Extras.dll
+U:\Bloc_IV\Poo\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\GalaSoft.MvvmLight.Platform.dll
+U:\Bloc_IV\Poo\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\GalaSoft.MvvmLight.dll
+U:\Bloc_IV\Poo\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\System.Windows.Interactivity.dll
+U:\Bloc_IV\Poo\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\SQLitePCLRaw.batteries_v2.dll
+U:\Bloc_IV\Poo\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\SQLitePCLRaw.core.dll
+U:\Bloc_IV\Poo\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\SQLitePCLRaw.provider.e_sqlite3.dll
+U:\Bloc_IV\Poo\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\System.Composition.AttributedModel.dll
+U:\Bloc_IV\Poo\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\System.Composition.Convention.dll
+U:\Bloc_IV\Poo\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\System.Composition.Hosting.dll
+U:\Bloc_IV\Poo\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\System.Composition.Runtime.dll
+U:\Bloc_IV\Poo\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\System.Composition.TypedParts.dll
+U:\Bloc_IV\Poo\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+U:\Bloc_IV\Poo\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\System.Diagnostics.DiagnosticSource.dll
+U:\Bloc_IV\Poo\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+U:\Bloc_IV\Poo\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+U:\Bloc_IV\Poo\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\System.Text.Json.dll
+U:\Bloc_IV\Poo\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+U:\Bloc_IV\Poo\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+U:\Bloc_IV\Poo\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+U:\Bloc_IV\Poo\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+U:\Bloc_IV\Poo\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+U:\Bloc_IV\Poo\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+U:\Bloc_IV\Poo\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+U:\Bloc_IV\Poo\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+U:\Bloc_IV\Poo\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+U:\Bloc_IV\Poo\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+U:\Bloc_IV\Poo\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+U:\Bloc_IV\Poo\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+U:\Bloc_IV\Poo\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+U:\Bloc_IV\Poo\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+U:\Bloc_IV\Poo\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+U:\Bloc_IV\Poo\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+U:\Bloc_IV\Poo\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+U:\Bloc_IV\Poo\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+U:\Bloc_IV\Poo\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+U:\Bloc_IV\Poo\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+U:\Bloc_IV\Poo\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+U:\Bloc_IV\Poo\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+U:\Bloc_IV\Poo\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+U:\Bloc_IV\Poo\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+U:\Bloc_IV\Poo\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+U:\Bloc_IV\Poo\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+U:\Bloc_IV\Poo\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+U:\Bloc_IV\Poo\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+U:\Bloc_IV\Poo\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+U:\Bloc_IV\Poo\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+U:\Bloc_IV\Poo\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+U:\Bloc_IV\Poo\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+U:\Bloc_IV\Poo\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+U:\Bloc_IV\Poo\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+U:\Bloc_IV\Poo\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+U:\Bloc_IV\Poo\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+U:\Bloc_IV\Poo\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+U:\Bloc_IV\Poo\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+U:\Bloc_IV\Poo\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+U:\Bloc_IV\Poo\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+U:\Bloc_IV\Poo\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+U:\Bloc_IV\Poo\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+U:\Bloc_IV\Poo\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+U:\Bloc_IV\Poo\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+U:\Bloc_IV\Poo\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+U:\Bloc_IV\Poo\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+U:\Bloc_IV\Poo\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+U:\Bloc_IV\Poo\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+U:\Bloc_IV\Poo\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+U:\Bloc_IV\Poo\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+U:\Bloc_IV\Poo\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+U:\Bloc_IV\Poo\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+U:\Bloc_IV\Poo\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+U:\Bloc_IV\Poo\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+U:\Bloc_IV\Poo\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+U:\Bloc_IV\Poo\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+U:\Bloc_IV\Poo\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+U:\Bloc_IV\Poo\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+U:\Bloc_IV\Poo\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+U:\Bloc_IV\Poo\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+U:\Bloc_IV\Poo\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+U:\Bloc_IV\Poo\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+U:\Bloc_IV\Poo\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+U:\Bloc_IV\Poo\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+U:\Bloc_IV\Poo\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+U:\Bloc_IV\Poo\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\runtimes\debian-x64\native\libuv.so
+U:\Bloc_IV\Poo\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\runtimes\fedora-x64\native\libuv.so
+U:\Bloc_IV\Poo\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\runtimes\opensuse-x64\native\libuv.so
+U:\Bloc_IV\Poo\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\runtimes\osx\native\libuv.dylib
+U:\Bloc_IV\Poo\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\runtimes\rhel-x64\native\libuv.so
+U:\Bloc_IV\Poo\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\runtimes\win7-arm\native\libuv.dll
+U:\Bloc_IV\Poo\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\runtimes\win7-x64\native\libuv.dll
+U:\Bloc_IV\Poo\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\runtimes\win7-x86\native\libuv.dll
+U:\Bloc_IV\Poo\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+U:\Bloc_IV\Poo\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+U:\Bloc_IV\Poo\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+U:\Bloc_IV\Poo\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\runtimes\browser-wasm\nativeassets\net8.0\e_sqlite3.a
+U:\Bloc_IV\Poo\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\runtimes\linux-arm\native\libe_sqlite3.so
+U:\Bloc_IV\Poo\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\runtimes\linux-arm64\native\libe_sqlite3.so
+U:\Bloc_IV\Poo\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\runtimes\linux-armel\native\libe_sqlite3.so
+U:\Bloc_IV\Poo\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\runtimes\linux-mips64\native\libe_sqlite3.so
+U:\Bloc_IV\Poo\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\runtimes\linux-musl-arm\native\libe_sqlite3.so
+U:\Bloc_IV\Poo\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+U:\Bloc_IV\Poo\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\runtimes\linux-musl-s390x\native\libe_sqlite3.so
+U:\Bloc_IV\Poo\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\runtimes\linux-musl-x64\native\libe_sqlite3.so
+U:\Bloc_IV\Poo\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\runtimes\linux-ppc64le\native\libe_sqlite3.so
+U:\Bloc_IV\Poo\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\runtimes\linux-s390x\native\libe_sqlite3.so
+U:\Bloc_IV\Poo\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\runtimes\linux-x64\native\libe_sqlite3.so
+U:\Bloc_IV\Poo\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\runtimes\linux-x86\native\libe_sqlite3.so
+U:\Bloc_IV\Poo\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+U:\Bloc_IV\Poo\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+U:\Bloc_IV\Poo\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\runtimes\osx-arm64\native\libe_sqlite3.dylib
+U:\Bloc_IV\Poo\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\runtimes\osx-x64\native\libe_sqlite3.dylib
+U:\Bloc_IV\Poo\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\runtimes\win-arm\native\e_sqlite3.dll
+U:\Bloc_IV\Poo\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\runtimes\win-arm64\native\e_sqlite3.dll
+U:\Bloc_IV\Poo\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\runtimes\win-x64\native\e_sqlite3.dll
+U:\Bloc_IV\Poo\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\runtimes\win-x86\native\e_sqlite3.dll
+U:\Bloc_IV\Poo\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+U:\Bloc_IV\Poo\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+U:\Bloc_IV\Poo\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+U:\Bloc_IV\Poo\Tp2WPF\Tp2WPF\obj\Debug\net8.0-windows\Tp2WPF.csproj.AssemblyReference.cache
+U:\Bloc_IV\Poo\Tp2WPF\Tp2WPF\obj\Debug\net8.0-windows\MainWindow.baml
+U:\Bloc_IV\Poo\Tp2WPF\Tp2WPF\obj\Debug\net8.0-windows\MainWindow.g.cs
+U:\Bloc_IV\Poo\Tp2WPF\Tp2WPF\obj\Debug\net8.0-windows\App.g.cs
+U:\Bloc_IV\Poo\Tp2WPF\Tp2WPF\obj\Debug\net8.0-windows\Tp2WPF_MarkupCompile.cache
+U:\Bloc_IV\Poo\Tp2WPF\Tp2WPF\obj\Debug\net8.0-windows\Tp2WPF.g.resources
+U:\Bloc_IV\Poo\Tp2WPF\Tp2WPF\obj\Debug\net8.0-windows\Tp2WPF.GeneratedMSBuildEditorConfig.editorconfig
+U:\Bloc_IV\Poo\Tp2WPF\Tp2WPF\obj\Debug\net8.0-windows\Tp2WPF.AssemblyInfoInputs.cache
+U:\Bloc_IV\Poo\Tp2WPF\Tp2WPF\obj\Debug\net8.0-windows\Tp2WPF.AssemblyInfo.cs
+U:\Bloc_IV\Poo\Tp2WPF\Tp2WPF\obj\Debug\net8.0-windows\Tp2WPF.csproj.CoreCompileInputs.cache
+U:\Bloc_IV\Poo\Tp2WPF\Tp2WPF\obj\Debug\net8.0-windows\Tp2WPF.sourcelink.json
+U:\Bloc_IV\Poo\Tp2WPF\Tp2WPF\obj\Debug\net8.0-windows\Tp2WPF.csproj.Up2Date
+U:\Bloc_IV\Poo\Tp2WPF\Tp2WPF\obj\Debug\net8.0-windows\Tp2WPF.dll
+U:\Bloc_IV\Poo\Tp2WPF\Tp2WPF\obj\Debug\net8.0-windows\refint\Tp2WPF.dll
+U:\Bloc_IV\Poo\Tp2WPF\Tp2WPF\obj\Debug\net8.0-windows\Tp2WPF.pdb
+U:\Bloc_IV\Poo\Tp2WPF\Tp2WPF\obj\Debug\net8.0-windows\Tp2WPF.genruntimeconfig.cache
+U:\Bloc_IV\Poo\Tp2WPF\Tp2WPF\obj\Debug\net8.0-windows\ref\Tp2WPF.dll
+E:\Bloc IV\poo 4\TP 2\Nouveau dossier\Tp2WPF\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\Tp2WPF.exe
+E:\Bloc IV\poo 4\TP 2\Nouveau dossier\Tp2WPF\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\Tp2WPF.dll.config
+E:\Bloc IV\poo 4\TP 2\Nouveau dossier\Tp2WPF\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\Tp2WPF.deps.json
+E:\Bloc IV\poo 4\TP 2\Nouveau dossier\Tp2WPF\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\Tp2WPF.runtimeconfig.json
+E:\Bloc IV\poo 4\TP 2\Nouveau dossier\Tp2WPF\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\Tp2WPF.dll
+E:\Bloc IV\poo 4\TP 2\Nouveau dossier\Tp2WPF\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\Tp2WPF.pdb
+E:\Bloc IV\poo 4\TP 2\Nouveau dossier\Tp2WPF\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\Castle.Core.dll
+E:\Bloc IV\poo 4\TP 2\Nouveau dossier\Tp2WPF\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\CommonServiceLocator.dll
+E:\Bloc IV\poo 4\TP 2\Nouveau dossier\Tp2WPF\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\EntityFramework.SqlServer.dll
+E:\Bloc IV\poo 4\TP 2\Nouveau dossier\Tp2WPF\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\EntityFramework.dll
+E:\Bloc IV\poo 4\TP 2\Nouveau dossier\Tp2WPF\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\Humanizer.dll
+E:\Bloc IV\poo 4\TP 2\Nouveau dossier\Tp2WPF\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Bloc IV\poo 4\TP 2\Nouveau dossier\Tp2WPF\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\Microsoft.Build.Locator.dll
+E:\Bloc IV\poo 4\TP 2\Nouveau dossier\Tp2WPF\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
+E:\Bloc IV\poo 4\TP 2\Nouveau dossier\Tp2WPF\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+E:\Bloc IV\poo 4\TP 2\Nouveau dossier\Tp2WPF\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Bloc IV\poo 4\TP 2\Nouveau dossier\Tp2WPF\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Bloc IV\poo 4\TP 2\Nouveau dossier\Tp2WPF\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Bloc IV\poo 4\TP 2\Nouveau dossier\Tp2WPF\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+E:\Bloc IV\poo 4\TP 2\Nouveau dossier\Tp2WPF\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+E:\Bloc IV\poo 4\TP 2\Nouveau dossier\Tp2WPF\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\Microsoft.Data.Sqlite.dll
+E:\Bloc IV\poo 4\TP 2\Nouveau dossier\Tp2WPF\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+E:\Bloc IV\poo 4\TP 2\Nouveau dossier\Tp2WPF\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Bloc IV\poo 4\TP 2\Nouveau dossier\Tp2WPF\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+E:\Bloc IV\poo 4\TP 2\Nouveau dossier\Tp2WPF\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Bloc IV\poo 4\TP 2\Nouveau dossier\Tp2WPF\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Sqlite.dll
+E:\Bloc IV\poo 4\TP 2\Nouveau dossier\Tp2WPF\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Bloc IV\poo 4\TP 2\Nouveau dossier\Tp2WPF\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+E:\Bloc IV\poo 4\TP 2\Nouveau dossier\Tp2WPF\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.dll
+E:\Bloc IV\poo 4\TP 2\Nouveau dossier\Tp2WPF\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Bloc IV\poo 4\TP 2\Nouveau dossier\Tp2WPF\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Binder.dll
+E:\Bloc IV\poo 4\TP 2\Nouveau dossier\Tp2WPF\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+E:\Bloc IV\poo 4\TP 2\Nouveau dossier\Tp2WPF\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Bloc IV\poo 4\TP 2\Nouveau dossier\Tp2WPF\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+E:\Bloc IV\poo 4\TP 2\Nouveau dossier\Tp2WPF\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+E:\Bloc IV\poo 4\TP 2\Nouveau dossier\Tp2WPF\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Bloc IV\poo 4\TP 2\Nouveau dossier\Tp2WPF\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Configuration.dll
+E:\Bloc IV\poo 4\TP 2\Nouveau dossier\Tp2WPF\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Console.dll
+E:\Bloc IV\poo 4\TP 2\Nouveau dossier\Tp2WPF\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+E:\Bloc IV\poo 4\TP 2\Nouveau dossier\Tp2WPF\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+E:\Bloc IV\poo 4\TP 2\Nouveau dossier\Tp2WPF\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+E:\Bloc IV\poo 4\TP 2\Nouveau dossier\Tp2WPF\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\Mono.TextTemplating.dll
+E:\Bloc IV\poo 4\TP 2\Nouveau dossier\Tp2WPF\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\Moq.dll
+E:\Bloc IV\poo 4\TP 2\Nouveau dossier\Tp2WPF\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\GalaSoft.MvvmLight.Extras.dll
+E:\Bloc IV\poo 4\TP 2\Nouveau dossier\Tp2WPF\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\GalaSoft.MvvmLight.Platform.dll
+E:\Bloc IV\poo 4\TP 2\Nouveau dossier\Tp2WPF\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\GalaSoft.MvvmLight.dll
+E:\Bloc IV\poo 4\TP 2\Nouveau dossier\Tp2WPF\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\System.Windows.Interactivity.dll
+E:\Bloc IV\poo 4\TP 2\Nouveau dossier\Tp2WPF\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\SQLitePCLRaw.batteries_v2.dll
+E:\Bloc IV\poo 4\TP 2\Nouveau dossier\Tp2WPF\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\SQLitePCLRaw.core.dll
+E:\Bloc IV\poo 4\TP 2\Nouveau dossier\Tp2WPF\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\SQLitePCLRaw.provider.e_sqlite3.dll
+E:\Bloc IV\poo 4\TP 2\Nouveau dossier\Tp2WPF\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\System.Composition.AttributedModel.dll
+E:\Bloc IV\poo 4\TP 2\Nouveau dossier\Tp2WPF\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\System.Composition.Convention.dll
+E:\Bloc IV\poo 4\TP 2\Nouveau dossier\Tp2WPF\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\System.Composition.Hosting.dll
+E:\Bloc IV\poo 4\TP 2\Nouveau dossier\Tp2WPF\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\System.Composition.Runtime.dll
+E:\Bloc IV\poo 4\TP 2\Nouveau dossier\Tp2WPF\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\System.Composition.TypedParts.dll
+E:\Bloc IV\poo 4\TP 2\Nouveau dossier\Tp2WPF\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+E:\Bloc IV\poo 4\TP 2\Nouveau dossier\Tp2WPF\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\System.Diagnostics.DiagnosticSource.dll
+E:\Bloc IV\poo 4\TP 2\Nouveau dossier\Tp2WPF\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+E:\Bloc IV\poo 4\TP 2\Nouveau dossier\Tp2WPF\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+E:\Bloc IV\poo 4\TP 2\Nouveau dossier\Tp2WPF\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\System.Text.Json.dll
+E:\Bloc IV\poo 4\TP 2\Nouveau dossier\Tp2WPF\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+E:\Bloc IV\poo 4\TP 2\Nouveau dossier\Tp2WPF\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+E:\Bloc IV\poo 4\TP 2\Nouveau dossier\Tp2WPF\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+E:\Bloc IV\poo 4\TP 2\Nouveau dossier\Tp2WPF\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+E:\Bloc IV\poo 4\TP 2\Nouveau dossier\Tp2WPF\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+E:\Bloc IV\poo 4\TP 2\Nouveau dossier\Tp2WPF\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+E:\Bloc IV\poo 4\TP 2\Nouveau dossier\Tp2WPF\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+E:\Bloc IV\poo 4\TP 2\Nouveau dossier\Tp2WPF\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+E:\Bloc IV\poo 4\TP 2\Nouveau dossier\Tp2WPF\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\Bloc IV\poo 4\TP 2\Nouveau dossier\Tp2WPF\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+E:\Bloc IV\poo 4\TP 2\Nouveau dossier\Tp2WPF\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+E:\Bloc IV\poo 4\TP 2\Nouveau dossier\Tp2WPF\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\Bloc IV\poo 4\TP 2\Nouveau dossier\Tp2WPF\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\Bloc IV\poo 4\TP 2\Nouveau dossier\Tp2WPF\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Bloc IV\poo 4\TP 2\Nouveau dossier\Tp2WPF\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Bloc IV\poo 4\TP 2\Nouveau dossier\Tp2WPF\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Bloc IV\poo 4\TP 2\Nouveau dossier\Tp2WPF\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Bloc IV\poo 4\TP 2\Nouveau dossier\Tp2WPF\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Bloc IV\poo 4\TP 2\Nouveau dossier\Tp2WPF\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Bloc IV\poo 4\TP 2\Nouveau dossier\Tp2WPF\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Bloc IV\poo 4\TP 2\Nouveau dossier\Tp2WPF\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Bloc IV\poo 4\TP 2\Nouveau dossier\Tp2WPF\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Bloc IV\poo 4\TP 2\Nouveau dossier\Tp2WPF\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Bloc IV\poo 4\TP 2\Nouveau dossier\Tp2WPF\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Bloc IV\poo 4\TP 2\Nouveau dossier\Tp2WPF\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Bloc IV\poo 4\TP 2\Nouveau dossier\Tp2WPF\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Bloc IV\poo 4\TP 2\Nouveau dossier\Tp2WPF\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Bloc IV\poo 4\TP 2\Nouveau dossier\Tp2WPF\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Bloc IV\poo 4\TP 2\Nouveau dossier\Tp2WPF\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Bloc IV\poo 4\TP 2\Nouveau dossier\Tp2WPF\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Bloc IV\poo 4\TP 2\Nouveau dossier\Tp2WPF\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Bloc IV\poo 4\TP 2\Nouveau dossier\Tp2WPF\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Bloc IV\poo 4\TP 2\Nouveau dossier\Tp2WPF\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Bloc IV\poo 4\TP 2\Nouveau dossier\Tp2WPF\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Bloc IV\poo 4\TP 2\Nouveau dossier\Tp2WPF\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Bloc IV\poo 4\TP 2\Nouveau dossier\Tp2WPF\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Bloc IV\poo 4\TP 2\Nouveau dossier\Tp2WPF\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Bloc IV\poo 4\TP 2\Nouveau dossier\Tp2WPF\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Bloc IV\poo 4\TP 2\Nouveau dossier\Tp2WPF\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Bloc IV\poo 4\TP 2\Nouveau dossier\Tp2WPF\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Bloc IV\poo 4\TP 2\Nouveau dossier\Tp2WPF\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Bloc IV\poo 4\TP 2\Nouveau dossier\Tp2WPF\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Bloc IV\poo 4\TP 2\Nouveau dossier\Tp2WPF\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Bloc IV\poo 4\TP 2\Nouveau dossier\Tp2WPF\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Bloc IV\poo 4\TP 2\Nouveau dossier\Tp2WPF\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Bloc IV\poo 4\TP 2\Nouveau dossier\Tp2WPF\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Bloc IV\poo 4\TP 2\Nouveau dossier\Tp2WPF\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Bloc IV\poo 4\TP 2\Nouveau dossier\Tp2WPF\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Bloc IV\poo 4\TP 2\Nouveau dossier\Tp2WPF\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Bloc IV\poo 4\TP 2\Nouveau dossier\Tp2WPF\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Bloc IV\poo 4\TP 2\Nouveau dossier\Tp2WPF\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Bloc IV\poo 4\TP 2\Nouveau dossier\Tp2WPF\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Bloc IV\poo 4\TP 2\Nouveau dossier\Tp2WPF\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Bloc IV\poo 4\TP 2\Nouveau dossier\Tp2WPF\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Bloc IV\poo 4\TP 2\Nouveau dossier\Tp2WPF\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Bloc IV\poo 4\TP 2\Nouveau dossier\Tp2WPF\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Bloc IV\poo 4\TP 2\Nouveau dossier\Tp2WPF\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Bloc IV\poo 4\TP 2\Nouveau dossier\Tp2WPF\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Bloc IV\poo 4\TP 2\Nouveau dossier\Tp2WPF\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Bloc IV\poo 4\TP 2\Nouveau dossier\Tp2WPF\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Bloc IV\poo 4\TP 2\Nouveau dossier\Tp2WPF\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Bloc IV\poo 4\TP 2\Nouveau dossier\Tp2WPF\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Bloc IV\poo 4\TP 2\Nouveau dossier\Tp2WPF\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Bloc IV\poo 4\TP 2\Nouveau dossier\Tp2WPF\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Bloc IV\poo 4\TP 2\Nouveau dossier\Tp2WPF\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Bloc IV\poo 4\TP 2\Nouveau dossier\Tp2WPF\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\runtimes\debian-x64\native\libuv.so
+E:\Bloc IV\poo 4\TP 2\Nouveau dossier\Tp2WPF\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\runtimes\fedora-x64\native\libuv.so
+E:\Bloc IV\poo 4\TP 2\Nouveau dossier\Tp2WPF\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\runtimes\opensuse-x64\native\libuv.so
+E:\Bloc IV\poo 4\TP 2\Nouveau dossier\Tp2WPF\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\runtimes\osx\native\libuv.dylib
+E:\Bloc IV\poo 4\TP 2\Nouveau dossier\Tp2WPF\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\runtimes\rhel-x64\native\libuv.so
+E:\Bloc IV\poo 4\TP 2\Nouveau dossier\Tp2WPF\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\runtimes\win7-arm\native\libuv.dll
+E:\Bloc IV\poo 4\TP 2\Nouveau dossier\Tp2WPF\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\runtimes\win7-x64\native\libuv.dll
+E:\Bloc IV\poo 4\TP 2\Nouveau dossier\Tp2WPF\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\runtimes\win7-x86\native\libuv.dll
+E:\Bloc IV\poo 4\TP 2\Nouveau dossier\Tp2WPF\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+E:\Bloc IV\poo 4\TP 2\Nouveau dossier\Tp2WPF\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+E:\Bloc IV\poo 4\TP 2\Nouveau dossier\Tp2WPF\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+E:\Bloc IV\poo 4\TP 2\Nouveau dossier\Tp2WPF\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\runtimes\browser-wasm\nativeassets\net8.0\e_sqlite3.a
+E:\Bloc IV\poo 4\TP 2\Nouveau dossier\Tp2WPF\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\runtimes\linux-arm\native\libe_sqlite3.so
+E:\Bloc IV\poo 4\TP 2\Nouveau dossier\Tp2WPF\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\runtimes\linux-arm64\native\libe_sqlite3.so
+E:\Bloc IV\poo 4\TP 2\Nouveau dossier\Tp2WPF\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\runtimes\linux-armel\native\libe_sqlite3.so
+E:\Bloc IV\poo 4\TP 2\Nouveau dossier\Tp2WPF\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\runtimes\linux-mips64\native\libe_sqlite3.so
+E:\Bloc IV\poo 4\TP 2\Nouveau dossier\Tp2WPF\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\runtimes\linux-musl-arm\native\libe_sqlite3.so
+E:\Bloc IV\poo 4\TP 2\Nouveau dossier\Tp2WPF\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+E:\Bloc IV\poo 4\TP 2\Nouveau dossier\Tp2WPF\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\runtimes\linux-musl-s390x\native\libe_sqlite3.so
+E:\Bloc IV\poo 4\TP 2\Nouveau dossier\Tp2WPF\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\runtimes\linux-musl-x64\native\libe_sqlite3.so
+E:\Bloc IV\poo 4\TP 2\Nouveau dossier\Tp2WPF\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\runtimes\linux-ppc64le\native\libe_sqlite3.so
+E:\Bloc IV\poo 4\TP 2\Nouveau dossier\Tp2WPF\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\runtimes\linux-s390x\native\libe_sqlite3.so
+E:\Bloc IV\poo 4\TP 2\Nouveau dossier\Tp2WPF\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\runtimes\linux-x64\native\libe_sqlite3.so
+E:\Bloc IV\poo 4\TP 2\Nouveau dossier\Tp2WPF\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\runtimes\linux-x86\native\libe_sqlite3.so
+E:\Bloc IV\poo 4\TP 2\Nouveau dossier\Tp2WPF\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+E:\Bloc IV\poo 4\TP 2\Nouveau dossier\Tp2WPF\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+E:\Bloc IV\poo 4\TP 2\Nouveau dossier\Tp2WPF\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\runtimes\osx-arm64\native\libe_sqlite3.dylib
+E:\Bloc IV\poo 4\TP 2\Nouveau dossier\Tp2WPF\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\runtimes\osx-x64\native\libe_sqlite3.dylib
+E:\Bloc IV\poo 4\TP 2\Nouveau dossier\Tp2WPF\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\runtimes\win-arm\native\e_sqlite3.dll
+E:\Bloc IV\poo 4\TP 2\Nouveau dossier\Tp2WPF\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\runtimes\win-arm64\native\e_sqlite3.dll
+E:\Bloc IV\poo 4\TP 2\Nouveau dossier\Tp2WPF\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\runtimes\win-x64\native\e_sqlite3.dll
+E:\Bloc IV\poo 4\TP 2\Nouveau dossier\Tp2WPF\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\runtimes\win-x86\native\e_sqlite3.dll
+E:\Bloc IV\poo 4\TP 2\Nouveau dossier\Tp2WPF\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Bloc IV\poo 4\TP 2\Nouveau dossier\Tp2WPF\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Bloc IV\poo 4\TP 2\Nouveau dossier\Tp2WPF\Tp2WPF\Tp2WPF\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+E:\Bloc IV\poo 4\TP 2\Nouveau dossier\Tp2WPF\Tp2WPF\Tp2WPF\obj\Debug\net8.0-windows\Tp2WPF.csproj.AssemblyReference.cache
+E:\Bloc IV\poo 4\TP 2\Nouveau dossier\Tp2WPF\Tp2WPF\Tp2WPF\obj\Debug\net8.0-windows\MainWindow.baml
+E:\Bloc IV\poo 4\TP 2\Nouveau dossier\Tp2WPF\Tp2WPF\Tp2WPF\obj\Debug\net8.0-windows\MainWindow.g.cs
+E:\Bloc IV\poo 4\TP 2\Nouveau dossier\Tp2WPF\Tp2WPF\Tp2WPF\obj\Debug\net8.0-windows\App.g.cs
+E:\Bloc IV\poo 4\TP 2\Nouveau dossier\Tp2WPF\Tp2WPF\Tp2WPF\obj\Debug\net8.0-windows\Tp2WPF_MarkupCompile.cache
+E:\Bloc IV\poo 4\TP 2\Nouveau dossier\Tp2WPF\Tp2WPF\Tp2WPF\obj\Debug\net8.0-windows\Tp2WPF.g.resources
+E:\Bloc IV\poo 4\TP 2\Nouveau dossier\Tp2WPF\Tp2WPF\Tp2WPF\obj\Debug\net8.0-windows\Tp2WPF.GeneratedMSBuildEditorConfig.editorconfig
+E:\Bloc IV\poo 4\TP 2\Nouveau dossier\Tp2WPF\Tp2WPF\Tp2WPF\obj\Debug\net8.0-windows\Tp2WPF.AssemblyInfoInputs.cache
+E:\Bloc IV\poo 4\TP 2\Nouveau dossier\Tp2WPF\Tp2WPF\Tp2WPF\obj\Debug\net8.0-windows\Tp2WPF.AssemblyInfo.cs
+E:\Bloc IV\poo 4\TP 2\Nouveau dossier\Tp2WPF\Tp2WPF\Tp2WPF\obj\Debug\net8.0-windows\Tp2WPF.csproj.CoreCompileInputs.cache
+E:\Bloc IV\poo 4\TP 2\Nouveau dossier\Tp2WPF\Tp2WPF\Tp2WPF\obj\Debug\net8.0-windows\Tp2WPF.sourcelink.json
+E:\Bloc IV\poo 4\TP 2\Nouveau dossier\Tp2WPF\Tp2WPF\Tp2WPF\obj\Debug\net8.0-windows\Tp2WPF.csproj.Up2Date
+E:\Bloc IV\poo 4\TP 2\Nouveau dossier\Tp2WPF\Tp2WPF\Tp2WPF\obj\Debug\net8.0-windows\Tp2WPF.dll
+E:\Bloc IV\poo 4\TP 2\Nouveau dossier\Tp2WPF\Tp2WPF\Tp2WPF\obj\Debug\net8.0-windows\refint\Tp2WPF.dll
+E:\Bloc IV\poo 4\TP 2\Nouveau dossier\Tp2WPF\Tp2WPF\Tp2WPF\obj\Debug\net8.0-windows\Tp2WPF.pdb
+E:\Bloc IV\poo 4\TP 2\Nouveau dossier\Tp2WPF\Tp2WPF\Tp2WPF\obj\Debug\net8.0-windows\Tp2WPF.genruntimeconfig.cache
+E:\Bloc IV\poo 4\TP 2\Nouveau dossier\Tp2WPF\Tp2WPF\Tp2WPF\obj\Debug\net8.0-windows\ref\Tp2WPF.dll
